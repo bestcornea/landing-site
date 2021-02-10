@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 127.79 75.946" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clipPath3259">
+      <rect x="542.69" y="-440.51" width="322.78" height="94.785" fill="#228be6" fill-opacity=".67692" stop-color="#000000"/>
+    </clipPath>
+    <clipPath id="clipPath3263">
+      <rect x="542.69" y="-440.51" width="322.78" height="94.785" fill="#228be6" fill-opacity=".67692" stop-color="#000000"/>
+    </clipPath>
+    <radialGradient id="radialGradient3037" cx="878.64" cy="-14.584" r="161.39" gradientTransform="matrix(.80292 0 0 .94174 -4.2319 -363.3)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a5d8ff" stop-opacity=".62293" offset="0"/>
+      <stop stop-color="#d0ebff" stop-opacity=".96223" offset="1"/>
+    </radialGradient>
+    <linearGradient id="linearGradient3039" x1="844.19" x2="982.62" y1="-35.538" y2="-35.538" gradientTransform="translate(-142.99 -340.87)" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+      <stop stop-color="#a5d8ff" offset="0"/>
+      <stop stop-color="#339af0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(-564.13 -217.49)">
+    <g>
+      <text x="559.79114" y="255.9798" fill="#1c7ed6" font-family="sans-serif" font-size="54.285px" letter-spacing="0px" stroke-width=".24111" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="559.79114" y="255.9798" fill="#1c7ed6" font-family="Ubuntu" font-weight="bold" stroke-width=".24111">BEST</tspan></text>
+      <text x="562.07184" y="292.93851" fill="#1c7ed6" font-family="sans-serif" font-size="33.26px" letter-spacing="0px" stroke-width=".26459" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="562.07184" y="292.93851" fill="#1c7ed6" font-family="Ubuntu" font-weight="300" stroke-width=".26459">CORNEA</tspan></text>
+      <path transform="matrix(.35278 0 0 .35278 380.6 385.32)" d="m701.38-435.47c-100.68 0-181.11 100.44-181.11 222.89 0 122.45 80.429 222.89 181.11 222.89 100.68 0 181.11-100.44 181.11-222.89 0-122.45-80.429-222.89-181.11-222.89zm0 11.25c93.155 0 169.86 94.104 169.86 211.64 0 117.54-76.707 211.64-169.86 211.64s-169.86-94.104-169.86-211.64c0-117.54 76.707-211.64 169.86-211.64z" clip-path="url(#clipPath3263)" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient3039)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+      <path transform="matrix(.35278 0 0 .35278 380.6 385.32)" d="m701.38-424.22c93.155 0 169.86 94.104 169.86 211.64 0 117.54-76.707 211.64-169.86 211.64s-169.86-94.104-169.86-211.64c0-117.54 76.707-211.64 169.86-211.64z" clip-path="url(#clipPath3259)" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#radialGradient3037)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    </g>
+    <path d="m564.13 263.16h127.78" fill="#228be6" stroke="#339af0" stroke-width="3.9688"/>
+    <path d="m607.38 241.22s21.679-10.587 43.295 2.1517c-23.082-5.0299-40.552 5.4149-48.657 13.095 1.1136-10.023 5.3622-15.247 5.3622-15.247" fill="#fff"/>
+  </g>
+</svg>
